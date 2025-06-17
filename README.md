@@ -18,7 +18,7 @@ Python, TypeScript, Rust, Ruby, HTML, CSS, JavaScript, SQL
 Next.js, React, Tailwind CSS
 
 **Backend:**  
-FastAPI, Redis, PostgreSQL, Docker, Axum
+FastAPI, Axum, Redis, PostgreSQL, Docker
 
 **Cloud & DevOps:**  
 AWS, Terraform, GitHub Actions
