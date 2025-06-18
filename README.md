@@ -27,6 +27,6 @@ AWS, Terraform, GitHub Actions
 Selenium, BeautifulSoup, Web scraping & Web automation (Expert at this due to KöKoll)
 
 ## Contact
-- Website: [kokoll.se](https://kokoll.se)  
+- Website: [KöKoll.nu](https://kokoll.se)  
 - LinkedIn: [linkedin.com/in/trulsborgvall](https://www.linkedin.com/in/truls-borgvall-752355273/)  
 - Email: truls369@gmail.com or truls.borgvall@kokoll.nu
