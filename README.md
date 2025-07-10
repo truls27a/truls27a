@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Truls
-An 18-year-old ambitious developer and entrepreneur from Sweden who loves building things and seeing them grow. I'm currently working on [KöKoll](https://kokoll.nu/), a website that automatically manages users' housing queues. Apart from coding I like to exercise (love training Muay Thai), read, and hang out with friends.
+An 18-year-old ambitious developer and entrepreneur from Sweden who loves creating things and seeing them grow. I'm currently working on [KöKoll](https://kokoll.nu/), a website that automatically manages users' housing queues. Apart from coding I like to exercise (love training Muay Thai), read, and hang out with friends.
 
 ## Projects
 - [**KöKoll**](https://kokoll.nu/): A website that automatically manages users' housing queues. Works by using requests or Selenium to programmatically sign up or log in to 200 different housing queues for the user.
