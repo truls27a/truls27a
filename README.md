@@ -33,4 +33,4 @@ Selenium, BeautifulSoup, Web scraping & Web automation (Expert at this due to KÃ
 ## Contact
 - Website: [KÃ¶Koll.nu](https://kokoll.nu)  
 - LinkedIn: [linkedin.com/in/truls-borgvall](https://www.linkedin.com/in/truls-borgvall-752355273/)  
-- Email: truls369@gmail.com or truls.borgvall@kokoll.nu
+- Email: truls.borgvall@icloud.com or truls.borgvall@kokoll.nu
