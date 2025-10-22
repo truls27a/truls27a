@@ -6,7 +6,7 @@ An 18-year-old ambitious developer and entrepreneur from Sweden who loves buildi
 
 - [**CodeG**](https://github.com/truls27a/code-g): Your G when it comes to coding. CodeG is a terminal-based AI chat application that helps you code. Like Cursor, but in your terminal.
 
-- [**pnrgen**](https://github.com/truls27a/pnrgen): A CLI for generating Swedish test personnummer from Skatteverket's official test database.
+- [**pnrgen**](https://github.com/truls27a/pnrgen): Generate Swedish test personnummer from Skatteverket's official test database.
 
 ## Tech Stack
 **Languages:**  
