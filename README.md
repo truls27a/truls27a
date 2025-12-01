@@ -10,7 +10,7 @@ An 18-year-old ambitious developer and entrepreneur from Sweden who loves buildi
 
 ## Tech Stack
 **Languages:**  
-Python, TypeScript, Rust, Ruby, HTML, CSS, JavaScript, SQL
+Python, Rust, TypeScript, Ruby, HTML, CSS, JavaScript, SQL
 
 **Frontend:**  
 Next.js, React, Tailwind CSS
@@ -19,7 +19,7 @@ Next.js, React, Tailwind CSS
 FastAPI, Axum, Warp, Redis, PostgreSQL, Docker
 
 **Cloud & DevOps:**  
-AWS, Terraform, GitHub Actions
+AWS, Azure, Terraform, GitHub Actions
 
 **Other:**  
 Selenium, BeautifulSoup, Web scraping & Web automation (Expert at this due to KöKoll)
