@@ -2,7 +2,7 @@
 An ambitious developer and entrepreneur from Sweden who loves building things and seeing them grow. I'm currently working on [KöKoll](https://kokoll.nu/), a website that automatically manages users' housing queues. Apart from coding, I like to exercise (love training Muay Thai), read, and hang out with friends.
 
 ## Projects
-- [**KöKoll**](https://kokoll.nu/): A website that automatically manages users' housing queues. Works by using requests or Selenium to programmatically sign up or log in to 200 different housing queues for the user.
+- [**KöKoll**](https://kokoll.nu/): KöKoll automatically manages users’ housing queue memberships in Sweden and helps them find rental apartments. It solves a major problem in the Swedish housing market: housing queues are highly fragmented, requiring users to register, maintain, and monitor accounts across hundreds of separate systems.
 
 - [**Favro MCP**](https://github.com/truls27a/favro-mcp): MCP server for interacting with Favro project management.
 
