@@ -14,10 +14,10 @@ An ambitious developer and entrepreneur from Sweden who loves building things an
 
 ## Tech Stack
 **Languages:**  
-Python, Rust, TypeScript, Ruby, HTML, CSS, JavaScript, SQL
+Rust, Python, TypeScript, Ruby, HTML, CSS, JavaScript, SQL
 
 **Frontend:**  
-Next.js, React, Tailwind CSS
+Next.js, React, Tailwind CSS, React Native, Angular, Flutter,
 
 **Backend:**  
 FastAPI, Axum, Warp, Redis, PostgreSQL, Docker
